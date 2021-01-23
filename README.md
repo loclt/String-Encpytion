@@ -1,4 +1,4 @@
-# String-Encpytion
+# String-Encpytion (Using Python)
 The string will be encrypted by reading down the column going left to right after is divided into a rectangle 
 
 1. Type a sentence. The sentence with space will be removed and create the new one. 
